@@ -1,0 +1,12 @@
+My Responses:
+
+1. Most often data is sent in the form of packets which is sent across the internet through multiple paths and the a computer reconstructs the data from the packets bringing back to its true form.
+
+2. A computer uses the DNS of a website, for example, to find out the IP address of said website in order to get the information for the site. Without the DNS computers would not be able to get the information they need for users to visit websites using the internet.
+
+3. A cookie is like an id number used by websites to let the server know that it is a a previous user in order to make more personalized experiences.
+
+4.
+-Protocol
+-Domain Name
+-Path
